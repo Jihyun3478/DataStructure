@@ -1,7 +1,6 @@
 package List_SinglyLinkedList;
 
 import InterfaceForm.List;
-import List_ArrayList.ArrayList;
 
 import java.util.Arrays;
 import java.util.Comparator;
