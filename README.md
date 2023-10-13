@@ -4,7 +4,7 @@
 ---
 
 자료구조 | 링크
-:--: | :--:
+:-- | :--:
 ArrayList | [링크](https://github.com/Jihyun3478/DataStructure/blob/main/Study/src/List_ArrayList/ArrayList.java)
 SinglyLinkedList | [링크](https://github.com/Jihyun3478/DataStructure/blob/main/Study/src/List_SinglyLinkedList/SLinkedList.java)
 ArrayQueue | [링크](https://github.com/Jihyun3478/DataStructure/blob/main/Study/src/Queue_ArrayQueue/ArrayQueue.java)
